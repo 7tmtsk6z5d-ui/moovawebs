@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Moova Fresh Milk",
+      "hasCanvas": false,
+      "bodyTextLen": 2541,
+      "bodyTextHash": "f653258bb9a64e88846df272486f581f57d7b58568c45fee26b201c0663a7616",
+      "bodyTextPrefix": "moova Home Flavors About Shop Reviews Order now FRESH MILK • TAN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Moova Fresh Milk",
+      "hasCanvas": false,
+      "bodyTextLen": 2426,
+      "bodyTextHash": "583f130fe1a8f01e50e79e38223f2db98651dd93336e06d3ed2e91667b3dc043",
+      "bodyTextPrefix": "moova FRESH MILK • TANPA PENGAWET • 250 ML & 350 ML • REQUEST RA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://7tmtsk6z5d-ui.github.io/moovaweb/sitemap.xml
